@@ -6,4 +6,5 @@ Technologies used:
 - HTML5
 - CSS
 
+![See image](./bentogrid.png)
 
